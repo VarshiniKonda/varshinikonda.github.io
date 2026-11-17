@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#090d18"/>
+      <stop offset="1" stop-color="#111b31"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#818cf8"/>
+      <stop offset="1" stop-color="#14b8a6"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop stop-color="#6366f1" stop-opacity=".3"/>
+      <stop offset="1" stop-color="#6366f1" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#background)"/>
+  <ellipse cx="1040" cy="150" rx="390" ry="330" fill="url(#glow)"/>
+  <circle cx="1010" cy="320" r="205" fill="none" stroke="#64748b" stroke-opacity=".23"/>
+  <circle cx="1010" cy="320" r="153" fill="none" stroke="#14b8a6" stroke-opacity=".28" stroke-dasharray="4 12"/>
+  <rect x="76" y="76" width="50" height="50" rx="14" fill="url(#accent)"/>
+  <text x="101" y="109" fill="#fff" font-family="Arial,sans-serif" font-size="20" font-weight="700" text-anchor="middle">SV</text>
+  <text x="77" y="190" fill="#2dd4bf" font-family="Arial,sans-serif" font-size="17" font-weight="700" letter-spacing="3">AI / FULL STACK DEVELOPER</text>
+  <text x="72" y="288" fill="#f3f5fa" font-family="Arial,sans-serif" font-size="76" font-weight="700">Sri Varshini</text>
+  <text x="72" y="378" fill="url(#accent)" font-family="Arial,sans-serif" font-size="76" font-weight="700">Konda.</text>
+  <text x="78" y="452" fill="#c1c8d6" font-family="Arial,sans-serif" font-size="27">Intelligent, data-driven applications.</text>
+  <text x="80" y="500" fill="#8994a8" font-family="Arial,sans-serif" font-size="16" letter-spacing="2">PYTHON  /  DJANGO  /  MACHINE LEARNING</text>
+  <rect x="910" y="222" width="200" height="200" rx="54" fill="#1b2842" stroke="url(#accent)" stroke-width="2"/>
+  <text x="1010" y="348" fill="#f3f5fa" font-family="Arial,sans-serif" font-size="76" font-weight="700" text-anchor="middle">SK</text>
+  <circle cx="1105" cy="388" r="10" fill="#4ade80"/>
+</svg>
