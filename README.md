@@ -32,12 +32,11 @@ Add a portfolio screenshot at `assets/screenshot.png` and embed it here when rea
 1. The public repository **`VarshiniKonda/varshinikonda.github.io`** has been created.
 2. Push the site files to the repository's `main` branch.
 3. If the included GitHub Actions workflow does not enable Pages automatically, open **Settings → Pages** and select **GitHub Actions** as the build and deployment source.
-4. Add your résumé PDF at `assets/Varshini_Resume.pdf`. Add a screenshot at `assets/screenshot.png` if you want to show one in this README.
+4. Replace `assets/Varshini_Resume.pdf` when you want to publish an updated résumé. Add a screenshot at `assets/screenshot.png` if you want to show one in this README.
 5. Check the **Actions** tab for the Pages deployment. Your site will be available at **https://varshinikonda.github.io** when the workflow completes.
 
 ## Placeholders to fill in
 
 - `[PLACEHOLDER: Hostel repository URL]` — the Hostel Management project GitHub URL in `script.js`
 - `[FORMSPREE_URL]` — your Formspree form endpoint in the contact form `action` in `index.html`
-- Add your résumé as `assets/Varshini_Resume.pdf` (not included yet)
 - Add `assets/screenshot.png` if you want a screenshot in this README (optional)
