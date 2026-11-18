@@ -221,13 +221,13 @@ button { color: inherit; }
 .live-indicator { display: inline-flex; align-items: center; gap: 7px; color: var(--muted); font-size: 10px; }
 .live-indicator i { width: 6px; height: 6px; }
 .profile-avatar {
-  position: relative; display: grid; width: 86px; height: 86px; place-items: center; margin: 28px auto 16px;
+  position: relative; display: grid; width: 118px; height: 118px; place-items: center; margin: 28px auto 16px;
   border: 1px solid var(--avatar-border); border-radius: 28px;
   background: linear-gradient(145deg, var(--avatar-indigo), var(--avatar-teal));
   color: var(--text); font: 600 30px var(--font-heading); overflow: hidden; transform: rotate(-5deg);
 }
 .profile-avatar::before { position: absolute; inset: 5px; border: 1px solid var(--line); border-radius: 23px; content: ""; }
-.profile-avatar img { width: 100%; height: 100%; object-fit: cover; }
+.profile-avatar img { width: 100%; height: 100%; object-fit: cover; object-position: 50% 28%; }
 .profile-avatar i { position: absolute; right: -4px; bottom: 8px; width: 12px; height: 12px; border: 2px solid var(--surface-strong); border-radius: 50%; background: var(--green); }
 .profile-card h2 { margin: 0; text-align: center; font: 600 19px var(--font-heading); letter-spacing: -0.4px; }
 .profile-subtitle { margin: 3px 0 19px; color: var(--muted); text-align: center; font-size: 12px; }
@@ -488,7 +488,7 @@ button { color: inherit; }
   .button { min-height: 45px; padding-inline: 15px; font-size: 12px; }
   .hero-visual { min-height: 320px; }
   .profile-card { width: 79%; padding: 18px; }
-  .profile-avatar { width: 74px; height: 74px; margin-top: 23px; }
+  .profile-avatar { width: 96px; height: 96px; margin-top: 23px; }
   .visual-caption { right: 0; bottom: -5px; font-size: 9px; }
   .scroll-cue { font-size: 8px; }
   .section-block { padding-top: 68px; }
