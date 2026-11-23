@@ -12,7 +12,7 @@ Add a portfolio screenshot at `assets/screenshot.png` and embed it here when rea
 ## Features
 
 - Dark-first design with a remembered light/dark theme
-- Profile photo stored at `assets/profilepic.svg`
+- Profile photo stored at `assets/profilepic.png`
 - Responsive layout, mobile navigation, and active-section highlighting
 - Animated role text, subtle hero background, and scroll-reveal effects
 - Reduced-motion support, keyboard focus styles, and a skip link
